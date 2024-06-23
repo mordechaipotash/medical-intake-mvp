@@ -4,7 +4,7 @@ import HealthHistory from './components/Forms/HealthHistory';
 import BehavioralInformation from './components/Forms/BehavioralInformation';
 import FamilyInformation from './components/Forms/FamilyInformation';
 import GeneralInformation from './components/Forms/GeneralInformation';
-import LanguageAndCommunication from './components/Forms/LanguageAndCommunication';
+import LanguageAndCommunication from './components/Forms/LanguageCommunication';
 import './App.css';
 
 function App() {

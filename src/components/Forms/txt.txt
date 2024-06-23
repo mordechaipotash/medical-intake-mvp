@@ -1,0 +1,510 @@
+# doctor bios
+
+# DashBoard
+
+[index.html](https://prod-files-secure.s3.us-west-2.amazonaws.com/4c01a273-a823-4dd2-9021-7460d716384a/22f4ea1d-bc22-4e93-8863-c8d8db6a4eb9/index.html)
+
+# Section 1: General Information
+
+1. **Your Name** (Text)
+2. **Relationship to Child** (Text)
+3. **Child’s Name** (Text)
+4. **Date of Birth** (Date)
+5. **Age** (Number)
+6. **Gender** (Select: Male, Female)
+7. **Address** (Text)
+8. **Phone Number** (Text)
+9. **Email Address** (Text)
+10. **Medical Aid Name** (Text)
+11. **Medical Aid Number** (Text)
+12. **Main Member** (Text)
+13. **Referred by** (Text)
+14. **Language(s) Spoken at Home** (Text)
+15. **Preferred Language for Communication** (Text)
+
+# Section 2: Family Information
+
+1. **Mother’s Name** (Text)
+2. **Father’s Name** (Text)
+3. **Marital Status** (Select: Married, Single, Divorced, Widowed)
+4. **Mother’s Occupation** (Text)
+5. **Father’s Occupation** (Text)
+6. **Mother’s Age** (Number)
+7. **Father’s Age** (Number)
+8. **Mother’s Educational Background** (Text)
+9. **Father’s Educational Background** (Text)
+10. **Are parents separated or divorced? If yes, who has custody?** (Textarea)
+11. **Who lives in the home with the child?** (Textarea)
+12. **Sibling Information** (List each sibling’s Name, Age, and Gender)
+    - Name
+    - Age
+    - Gender
+    - Any known health or developmental issues (Textarea)
+13. **Extended Family Involvement** (Are there other family members involved in the child’s care? Describe their involvement) (Textarea)
+14. **Describe the family’s home environment** (Textarea: e.g., calm, busy, structured)
+15. **Primary Caregiver** (Text)
+16. **Does the child live with both biological parents?** (Yes/No)
+17. **If no, describe the living arrangements** (Textarea)
+18. **Family history of medical or psychological conditions** (Textarea: Describe any known conditions)
+
+# Section 3: Medical History
+
+1. **Medical Conditions** (Textarea: Describe any medical conditions)
+2. **Is your child on any medication?** (Textarea: List any medications)
+3. **Birth History**:
+    - Gestational age at birth (Number of weeks)
+    - Birth weight (Number)
+    - Delivery method (Select: Vaginal, Cesarean)
+    - Any complications during birth? (Textarea)
+    - Was the child admitted to the NICU? (Yes/No, if yes, for how long?)
+4. **Developmental History**:
+    - At what age did your child achieve the following milestones:
+        - Rolled over (Number of months)
+        - Sat without support (Number of months)
+        - Crawled (Number of months)
+        - Walked unassisted (Number of months)
+        - First words (Number of months)
+        - Sentences (Number of months)
+5. **Any surgeries or hospitalizations?** (Textarea: Describe if any)
+6. **Allergies** (Textarea: List any allergies)
+7. **Immunization Status**:
+    - Are immunizations up to date? (Yes/No)
+    - If no, which immunizations are missing? (Textarea)
+8. **Vision and Hearing**:
+    - Has your child’s vision been tested? (Yes/No)
+    - Has your child’s hearing been tested? (Yes/No)
+9. **Past Illnesses**:
+    - Has your child had any of the following illnesses? (Select all that apply: Chickenpox, Measles, Mumps, Whooping cough, Tuberculosis, etc.)
+    - Any other significant illnesses? (Textarea)
+10. **Medical Professional Involvement**:
+    - List any specialists your child is currently seeing (Textarea: e.g., pediatrician, neurologist, therapist)
+    - Are there any ongoing treatments or therapies? (Textarea)
+11. **Is there a family history of any medical conditions?** (Textarea: Describe any known conditions)
+12. **Sleep Patterns**:
+    - Does your child have regular sleep patterns? (Yes/No)
+    - Describe your child’s sleep habits (Textarea: e.g., difficulty falling asleep, frequent waking)
+13. **Diet and Nutrition**:
+    - Describe your child’s diet (Textarea: e.g., balanced, picky eater)
+    - Any dietary restrictions or special diets? (Textarea)
+14. **Physical Activity**:
+    - Does your child engage in regular physical activity? (Yes/No)
+    - Describe the types of activities (Textarea: e.g., sports, playtime)
+15. **Any other health-related concerns?** (Textarea)
+
+# Section 4: Developmental History
+
+1. **Motor Milestones**:
+    - At what age did your child achieve the following milestones:
+        - Rolled over (Number of months)
+        - Sat without support (Number of months)
+        - Crawled (Number of months)
+        - Walked unassisted (Number of months)
+        - Ran (Number of months)
+        - Climbed stairs (Number of months)
+    - Any concerns with gross motor skills? (Textarea: e.g., clumsiness, difficulty with balance)
+2. **Fine Motor Skills**:
+    - At what age did your child achieve the following milestones:
+        - Grasped objects (Number of months)
+        - Used a pincer grasp (Number of months)
+        - Fed self with fingers (Number of months)
+        - Used utensils (Number of months)
+        - Drew simple shapes (Number of months)
+    - Any concerns with fine motor skills? (Textarea: e.g., difficulty with writing, using scissors)
+3. **Language Milestones**:
+    - At what age did your child achieve the following milestones:
+        - First words (Number of months)
+        - Combined two words (Number of months)
+        - Used sentences (Number of months)
+    - Any concerns with speech or language development? (Textarea: e.g., delayed speech, difficulty understanding)
+4. **Social and Emotional Development**:
+    - At what age did your child achieve the following milestones:
+        - Smiled responsively (Number of months)
+        - Recognized familiar people (Number of months)
+        - Showed interest in other children (Number of months)
+        - Played with other children (Number of months)
+    - Any concerns with social interactions or emotional behavior? (Textarea: e.g., difficulty making friends, tantrums)
+5. **Cognitive Development**:
+    - At what age did your child achieve the following milestones:
+        - Recognized objects (Number of months)
+        - Followed simple instructions (Number of months)
+        - Engaged in pretend play (Number of months)
+    - Any concerns with cognitive development? (Textarea: e.g., difficulty following instructions, poor memory)
+6. **Daily Living Skills**:
+    - At what age did your child achieve the following milestones:
+        - Fed self (Number of months)
+        - Dressed self (Number of months)
+        - Used the toilet independently (Number of months)
+    - Any concerns with daily living skills? (Textarea: e.g., difficulty dressing, bedwetting)
+7. **Behavioral Development**:
+    - Describe any concerns with your child’s behavior (Textarea: e.g., hyperactivity, inattention, aggression)
+8. **Sleep Patterns**:
+    - Does your child have regular sleep patterns? (Yes/No)
+    - Describe any sleep issues (Textarea: e.g., difficulty falling asleep, night terrors)
+9. **Play and Leisure**:
+    - Describe how your child plays (Textarea: e.g., prefers solitary play, enjoys group activities)
+    - Favorite toys or activities (Textarea)
+10. **Any other developmental concerns?** (Textarea: Describe any other concerns not covered above)
+
+[section4.html](https://prod-files-secure.s3.us-west-2.amazonaws.com/4c01a273-a823-4dd2-9021-7460d716384a/0ea09fd7-571c-43ec-8723-13ae1fa04f85/section4.html)
+
+# Section 5: Educational History
+
+1. **Current School**:
+    - Name of the school (Text)
+    - School Address (Text)
+    - School Phone Number (Text)
+2. **Grade** (Text)
+3. **Teacher’s Name** (Text)
+4. **Previous Schools Attended**:
+    - List each previous school with names and years attended (Textarea)
+5. **Academic Performance**:
+    - How is your child managing academically? (Textarea)
+    - Does your child enjoy school? (Yes/No)
+    - Any specific subjects where your child excels? (Textarea)
+    - Any subjects where your child struggles? (Textarea)
+6. **Learning Styles**:
+    - How does your child learn best? (Textarea: e.g., visual, auditory, hands-on)
+    - Any accommodations or modifications used at school? (Textarea)
+7. **Special Education Services**:
+    - Is your child receiving any special education services? (Yes/No)
+    - If yes, describe the services provided (Textarea: e.g., IEP, 504 Plan)
+8. **Tutoring or Additional Support**:
+    - Does your child receive any tutoring or additional support outside of school? (Yes/No)
+    - If yes, describe the support (Textarea)
+9. **Behavior in School**:
+    - Describe your child’s behavior in school (Textarea: e.g., follows rules, disruptive)
+    - Any disciplinary actions taken at school? (Textarea)
+10. **Social Interaction at School**:
+    - How does your child interact with peers at school? (Textarea)
+    - Any concerns about social interactions in the school setting? (Textarea)
+11. **Extracurricular Activities**:
+    - Is your child involved in any extracurricular activities? (Yes/No)
+    - If yes, list the activities (Textarea: e.g., sports, clubs, music)
+12. **Educational Goals**:
+    - What are your educational goals for your child? (Textarea)
+    - Any specific areas you would like to see improvement? (Textarea)
+13. **Attendance**:
+    - Describe your child’s attendance record (Textarea: e.g., regular, frequent absences)
+    - Any reasons for absences if applicable (Textarea)
+14. **Homework**:
+    - Does your child complete homework regularly? (Yes/No)
+    - Describe your child’s homework habits (Textarea: e.g., independent, requires help)
+15. **Any additional information regarding your child’s educational history?** (Textarea)
+
+# Section 6: Behavioral Information
+
+1. **Behavioral Concerns**:
+    - Describe any behavioral concerns you have about your child (Textarea: e.g., hyperactivity, inattention, aggression, defiance).
+2. **Interaction with Peers**:
+    - How does your child interact with peers? (Textarea: e.g., friendly, shy, aggressive).
+    - Does your child have friends? (Yes/No)
+    - Describe your child’s friendships (Textarea: e.g., few close friends, many acquaintances).
+3. **Interaction with Adults**:
+    - How does your child interact with adults? (Textarea: e.g., respectful, challenging, avoids).
+4. **Temperament**:
+    - Describe your child’s temperament (Textarea: e.g., happy, withdrawn, aggressive, calm).
+    - Is your child overly sensitive or emotional? (Yes/No)
+    - Describe how your child handles emotions (Textarea: e.g., tantrums, cries easily).
+5. **Self-Esteem**:
+    - How would you describe your child’s self-esteem? (Textarea: e.g., high, low, varies).
+6. **Attention and Focus**:
+    - Does your child have trouble paying attention or staying focused? (Yes/No)
+    - Describe any concerns with attention or focus (Textarea: e.g., easily distracted, daydreams).
+7. **Impulse Control**:
+    - Does your child have difficulty controlling impulses? (Yes/No)
+    - Describe any concerns with impulse control (Textarea: e.g., acts without thinking, interrupts).
+8. **Anxiety and Fears**:
+    - Does your child exhibit signs of anxiety or have specific fears? (Yes/No)
+    - Describe any anxiety or fears (Textarea: e.g., separation anxiety, fear of the dark).
+9. **Behavioral Patterns**:
+    - Describe any patterns in your child’s behavior (Textarea: e.g., consistent, varies with environment).
+10. **Disciplinary Actions**:
+    - Have there been any disciplinary actions taken at school or at home? (Yes/No)
+    - Describe the disciplinary actions and outcomes (Textarea: e.g., timeouts, loss of privileges).
+11. **Coping Strategies**:
+    - What coping strategies does your child use? (Textarea: e.g., deep breathing, talking it out).
+12. **Stressors**:
+    - Identify any known stressors in your child’s life (Textarea: e.g., family changes, school pressure).
+13. **Behavioral Support**:
+    - Is your child receiving any behavioral support or therapy? (Yes/No)
+    - Describe the support or therapy (Textarea: e.g., counseling, behavior modification).
+14. **Sleep Patterns and Behavior**:
+    - Does your child’s behavior change with sleep patterns? (Yes/No)
+    - Describe any connections between sleep and behavior (Textarea: e.g., more irritable when tired).
+15. **Behavioral Changes**:
+    - Have there been any recent changes in your child’s behavior? (Yes/No)
+    - Describe the changes and possible reasons (Textarea).
+16. **Additional Behavioral Information**:
+    - Is there anything else you would like to share about your child’s behavior? (Textarea)
+
+# Section 7: Language and Communication
+
+1. **Primary Language** (Text)
+2. **Languages Spoken at Home** (Text)
+3. **Preferred Language for Communication** (Text)
+4. **Speech Development**:
+    - At what age did your child say their first words? (Number of months)
+    - At what age did your child start combining words? (Number of months)
+    - At what age did your child start speaking in full sentences? (Number of months)
+5. **Speech Clarity**:
+    - Is your child's speech clear to others? (Yes/No)
+    - If no, describe the difficulties (Textarea)
+6. **Receptive Language**:
+    - Does your child understand spoken language? (Yes/No)
+    - Describe any difficulties with understanding language (Textarea)
+    - Can your child follow simple instructions? (Yes/No)
+    - Can your child follow complex instructions? (Yes/No)
+7. **Expressive Language**:
+    - How does your child express themselves? (Textarea: e.g., words, gestures, sign language)
+    - Does your child use appropriate grammar? (Yes/No)
+    - Describe any difficulties with expressing themselves (Textarea)
+8. **Social Communication**:
+    - How does your child communicate in social situations? (Textarea: e.g., initiates conversation, responds to others)
+    - Does your child make eye contact when communicating? (Yes/No)
+    - Describe any difficulties with social communication (Textarea)
+9. **Nonverbal Communication**:
+    - Does your child use nonverbal communication effectively? (Yes/No)
+    - Describe any difficulties with nonverbal communication (Textarea: e.g., gestures, facial expressions)
+10. **Pragmatic Language Skills**:
+    - Does your child understand and use language appropriately in different social contexts? (Yes/No)
+    - Describe any difficulties with pragmatic language skills (Textarea)
+11. **Reading and Writing**:
+    - At what age did your child start recognizing letters? (Number of months)
+    - At what age did your child start reading? (Number of months)
+    - At what age did your child start writing? (Number of months)
+    - Describe any difficulties with reading and writing (Textarea)
+12. **Previous Assessments and Interventions**:
+    - Has your child been assessed for speech or language issues? (Yes/No)
+    - If yes, describe the assessments and outcomes (Textarea)
+    - Is your child receiving speech therapy or other interventions? (Yes/No)
+    - If yes, describe the therapy or interventions (Textarea)
+13. **Technology and Communication**:
+    - Does your child use technology to assist with communication? (Yes/No)
+    - If yes, describe the technology used (Textarea: e.g., AAC devices, apps)
+14. **Additional Language and Communication Information**:
+    - Is there anything else you would like to share about your child’s language and communication skills? (Textarea)
+
+# Section 8: Reason for Referral
+
+1. **Main Concerns**:
+    - What are your main concerns about your child’s development or behavior? (Textarea)
+2. **Specific Issues**:
+    - Describe any specific issues that led you to seek an evaluation (Textarea)
+3. **Onset of Concerns**:
+    - When did you first notice these issues? (Textarea: e.g., age, specific event)
+4. **Changes Over Time**:
+    - How have these concerns changed over time? (Textarea: e.g., improved, worsened, remained the same)
+5. **Previous Interventions**:
+    - Have you sought help for these concerns before? (Yes/No)
+    - If yes, describe the interventions and outcomes (Textarea: e.g., therapy, medication, school support)
+6. **Impact on Daily Life**:
+    - How do these concerns affect your child’s daily life? (Textarea: e.g., at home, at school, with peers)
+    - How do these concerns affect your family’s daily life? (Textarea)
+7. **Expectations from Evaluation**:
+    - What do you hope to achieve from this evaluation? (Textarea: e.g., diagnosis, treatment plan, school accommodations)
+8. **Support Systems**:
+    - Describe any support systems currently in place (Textarea: e.g., family support, school support, community resources)
+9. **Child’s Awareness**:
+    - Is your child aware of these concerns? (Yes/No)
+    - If yes, how do they feel about it? (Textarea)
+10. **Additional Information**:
+    - Is there anything else you would like to share about the reason for referral? (Textarea)
+
+# Section 9: Health History
+
+1. **Birth History**:
+    - Gestational age at birth (Number of weeks)
+    - Birth weight (Number)
+    - Delivery method (Select: Vaginal, Cesarean)
+    - Any complications during birth? (Textarea)
+    - Was the child admitted to the NICU? (Yes/No, if yes, for how long?)
+2. **Early Health Issues**:
+    - Any early health issues or illnesses? (Textarea)
+3. **Medical Conditions**:
+    - Does your child have any ongoing medical conditions? (Textarea: Describe any medical conditions)
+4. **Medication**:
+    - Is your child on any medication? (Yes/No)
+    - If yes, list any medications (Textarea)
+5. **Hospitalizations and Surgeries**:
+    - Has your child had any hospitalizations or surgeries? (Yes/No)
+    - If yes, describe the hospitalizations or surgeries (Textarea)
+6. **Allergies**:
+    - Does your child have any allergies? (Yes/No)
+    - If yes, list any allergies (Textarea)
+7. **Immunizations**:
+    - Are your child’s immunizations up to date? (Yes/No)
+    - If no, list the missing immunizations (Textarea)
+8. **Vision and Hearing**:
+    - Has your child’s vision been tested? (Yes/No)
+    - Has your child’s hearing been tested? (Yes/No)
+    - Describe any issues with vision or hearing (Textarea)
+9. **Growth and Development**:
+    - Any concerns with growth and development? (Textarea)
+10. **Sleep Patterns**:
+    - Does your child have regular sleep patterns? (Yes/No)
+    - Describe your child’s sleep habits (Textarea: e.g., difficulty falling asleep, frequent waking)
+11. **Diet and Nutrition**:
+    - Describe your child’s diet (Textarea: e.g., balanced, picky eater)
+    - Any dietary restrictions or special diets? (Textarea)
+12. **Physical Activity**:
+    - Does your child engage in regular physical activity? (Yes/No)
+    - Describe the types of activities (Textarea: e.g., sports, playtime)
+13. **Family Medical History**:
+    - Is there a family history of any medical conditions? (Textarea: Describe any known conditions)
+14. **Mental Health History**:
+    - Does your child have a history of mental health issues? (Yes/No)
+    - If yes, describe the issues and any treatments (Textarea)
+15. **Developmental Milestones**:
+    - At what age did your child achieve the following milestones:
+        - Rolled over (Number of months)
+        - Sat without support (Number of months)
+        - Crawled (Number of months)
+        - Walked unassisted (Number of months)
+        - First words (Number of months)
+        - Sentences (Number of months)
+16. **Additional Health Information**:
+    - Is there anything else you would like to share about your child’s health history? (Textarea)
+
+# Section 10: Social Interaction
+
+1. **Interaction with Peers**:
+    - How does your child interact with peers? (Textarea: e.g., friendly, shy, aggressive)
+    - Does your child have friends? (Yes/No)
+    - Describe your child’s friendships (Textarea: e.g., few close friends, many acquaintances)
+2. **Interaction with Adults**:
+    - How does your child interact with adults? (Textarea: e.g., respectful, challenging, avoids)
+3. **Play Behavior**:
+    - Describe your child’s play behavior (Textarea: e.g., prefers solitary play, enjoys group activities)
+    - What are your child’s favorite activities or toys? (Textarea)
+4. **Social Skills**:
+    - Does your child share toys and take turns? (Yes/No)
+    - Does your child use appropriate manners? (Yes/No)
+    - Describe any difficulties with social skills (Textarea)
+5. **Response to Social Situations**:
+    - How does your child respond to new social situations? (Textarea: e.g., excited, anxious, indifferent)
+6. **Group Activities**:
+    - Does your child participate in group activities? (Yes/No)
+    - If yes, describe the activities (Textarea: e.g., sports, clubs, classes)
+7. **Emotional Responses**:
+    - How does your child express emotions in social settings? (Textarea: e.g., easily frustrated, happy)
+    - Any concerns with how your child handles emotions? (Textarea)
+8. **Conflicts with Peers**:
+    - How does your child handle conflicts with peers? (Textarea: e.g., resolves peacefully, becomes aggressive)
+9. **Peer Relationships**:
+    - Does your child have any difficulties forming or maintaining peer relationships? (Yes/No)
+    - If yes, describe the difficulties (Textarea)
+10. **Involvement in Bullying**:
+    - Has your child ever been involved in bullying, either as a victim or a perpetrator? (Yes/No)
+    - If yes, describe the situation (Textarea)
+11. **Response to Authority**:
+    - How does your child respond to authority figures? (Textarea: e.g., follows directions, challenges rules)
+12. **Sensitivity to Social Cues**:
+    - Is your child sensitive to social cues? (Yes/No)
+    - Describe any difficulties with social cues (Textarea: e.g., understanding body language, tone of voice)
+13. **Empathy and Compassion**:
+    - Does your child show empathy and compassion towards others? (Yes/No)
+    - Describe how your child demonstrates empathy (Textarea)
+14. **Social Preferences**:
+    - Does your child prefer to be alone or with others? (Textarea: e.g., enjoys solitary activities, seeks out social interactions)
+15. **Communication in Social Settings**:
+    - How does your child communicate in social settings? (Textarea: e.g., speaks confidently, is quiet)
+16. **Social Challenges**:
+    - Describe any challenges your child faces in social interactions (Textarea: e.g., making friends, maintaining conversations)
+17. **Parental Concerns**:
+    - Do you have any concerns about your child’s social interactions? (Textarea)
+18. **Additional Social Information**:
+    - Is there anything else you would like to share about your child’s social interactions? (Textarea)
+
+# Section 11: Family History
+
+1. **Family Members with Learning or Developmental Disabilities**:
+    - Do any family members have learning or developmental disabilities? (Textarea: Describe the conditions and which family members are affected)
+2. **Family Members with Psychological Conditions**:
+    - Any history of psychological conditions in the family? (Textarea: Describe the conditions and which family members are affected)
+3. **Genetic Disorders**:
+    - Are there any known genetic disorders in the family? (Textarea: Describe the disorders and which family members are affected)
+4. **Substance Abuse**:
+    - Is there a history of substance abuse in the family? (Yes/No)
+    - If yes, describe the substance abuse and which family members are affected (Textarea)
+5. **Chronic Illnesses**:
+    - Are there any chronic illnesses present in the family? (Textarea: Describe the illnesses and which family members are affected)
+6. **History of Mental Health Issues**:
+    - Any history of mental health issues in the family? (Textarea: Describe the issues and which family members are affected)
+7. **Trauma and Significant Life Events**:
+    - Has the child or the family ever experienced any trauma, e.g., death of a loved one, divorce, violence, etc.? (Textarea: Describe the events)
+8. **Family Dynamics**:
+    - Describe the family dynamics (Textarea: e.g., relationships between family members, communication patterns)
+9. **Parental Health**:
+    - Are there any health issues with the parents? (Textarea: Describe any health issues that may affect parenting)
+10. **Support Systems**:
+    - Describe any support systems available to the family (Textarea: e.g., extended family, community resources)
+11. **Parental Educational Background**:
+    - Describe the educational background of the parents (Textarea)
+12. **Employment and Financial Stability**:
+    - Describe the employment status and financial stability of the family (Textarea)
+13. **Cultural Background**:
+    - Describe the family’s cultural background and any cultural practices or beliefs that may affect the child (Textarea)
+14. **Religious Background**:
+    - Describe the family’s religious background and any religious practices or beliefs that may affect the child (Textarea)
+15. **Parental Relationship**:
+    - Describe the relationship between the parents (Textarea: e.g., supportive, conflicting)
+16. **Sibling Relationships**:
+    - Describe the relationships between the child and their siblings (Textarea: e.g., close, competitive)
+17. **Adoption or Foster Care**:
+    - Is the child adopted or in foster care? (Yes/No)
+    - If yes, provide details about the adoption or foster care (Textarea)
+18. **Custody Arrangements**:
+    - Are there any custody arrangements for the child? (Yes/No)
+    - If yes, describe the arrangements (Textarea)
+19. **Additional Family History Information**:
+    - Is there anything else you would like to share about your family history? (Textarea)
+
+# Section 12: Additional Information
+
+1. **Strengths and Interests**:
+    - What are your child's strengths? (Textarea)
+    - What activities does your child enjoy? (Textarea)
+2. **Parental Concerns**:
+    - Do you have any concerns that have not been addressed in previous sections? (Textarea)
+3. **Goals and Expectations**:
+    - What are your goals for your child's development and education? (Textarea)
+    - What do you expect to achieve from this evaluation? (Textarea)
+4. **Special Circumstances**:
+    - Are there any special circumstances that affect your child? (Textarea: e.g., recent move, family changes)
+5. **Routine and Structure**:
+    - Describe your child's daily routine (Textarea)
+    - How does your child handle changes in routine? (Textarea)
+6. **Discipline**:
+    - What methods of discipline do you use at home? (Textarea: e.g., time-outs, loss of privileges)
+    - How does your child respond to these methods? (Textarea)
+7. **Social and Community Involvement**:
+    - Is your child involved in any community activities or groups? (Textarea)
+    - Describe your child's involvement in social or community activities (Textarea)
+8. **Special Skills or Talents**:
+    - Does your child have any special skills or talents? (Textarea: e.g., musical, artistic, athletic)
+9. **Parental Observations**:
+    - Have you noticed any significant changes in your child's behavior or development recently? (Textarea)
+10. **Previous Evaluations**:
+    - Has your child had any previous evaluations or assessments? (Yes/No)
+    - If yes, describe the evaluations and outcomes (Textarea)
+11. **Additional Support**:
+    - Is there any additional support your child is receiving that has not been mentioned? (Textarea)
+12. **Parent-Child Relationship**:
+    - Describe your relationship with your child (Textarea: e.g., close, challenging)
+    - How does your child express their feelings towards you? (Textarea)
+13. **Family's Educational Background**:
+    - Describe the educational background of other family members (Textarea)
+14. **Technology Use**:
+    - How does your child use technology? (Textarea: e.g., screen time, educational apps)
+    - Any concerns about your child's use of technology? (Textarea)
+15. **Future Plans**:
+    - Do you have any future plans or considerations for your child’s education or care? (Textarea)
+16. **Emergency Information**:
+    - List any emergency contacts and their relationship to the child (Textarea)
+    - Any specific instructions for emergencies? (Textarea)
+17. **Cultural or Religious Considerations**:
+    - Are there any cultural or religious considerations that are important for us to know? (Textarea)
+18. **General Comments**:
+    - Is there anything else you would like to share about your child that has not been covered in this form? (Textarea)
+
+[Intake Questions d5c79399783945918b20e3608077214a.pdf](https://prod-files-secure.s3.us-west-2.amazonaws.com/4c01a273-a823-4dd2-9021-7460d716384a/493090bb-759d-4bc9-90d1-744b9fd11dd9/Intake_Questions_d5c79399783945918b20e3608077214a.pdf)
